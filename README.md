@@ -1,8 +1,13 @@
-# Ember-cli-what-what
+# ember-cli-what-what
 
-This README outlines the details of collaborating on this Ember addon.
+First, create a new ember app with `ember new APPNAME`
 
-## Installation
+Then: `ember install ember-cli-what-what`
+
+Then put a `{{what-what}}` component in your templates/components/application.hbs
+to try out this test component.
+
+## Installation for development
 
 * `git clone` this repository
 * `npm install`
@@ -22,4 +27,5 @@ This README outlines the details of collaborating on this Ember addon.
 
 * `ember build`
 
-For more information on using ember-cli, visit [http://www.ember-cli.com/](http://www.ember-cli.com/).
+For more information on using ember-cli, visit
+ [http://www.ember-cli.com/](http://www.ember-cli.com/).
